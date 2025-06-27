@@ -64,7 +64,3 @@ To build a binary classification model using Logistic Regression to predict whet
 Successfully completed **Task 4** of the Elevate Labs AI & ML Internship, demonstrating a strong understanding of binary classification, model evaluation, and logistic regression fundamentals.
 
 ---
-
-
-
-#### 📌 Confusion Matrix:
